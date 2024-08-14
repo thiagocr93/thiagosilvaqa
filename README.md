@@ -1,8 +1,5 @@
 <h1 align="center">Thiago Silva</h1>
 
-<p align="center">
-<img src="Foto Thiago.jpg" width="200" height="200"/> </p>
-
 <h3 align="center">Hello! I'm Thiago, a passionate Quality Assurance (QA) professional recently graduated from a rigorous QA Bootcamp.I'm eager to apply my newly acquired skills in manual and automated testing to help deliver high-quality software products.</h3>
 
 - 🔭 I’m currently working on [Automated Web Application Testing](creation of suite of automated tests for a fictitious web application ,automated regression tests for key functionalities of the application)
