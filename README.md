@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Automated Web Application Testing](creation of suite of automated tests for a fictitious web application ,automated regression tests for key functionalities of the application)
 
-- 🌱 I’m currently learning **Systems Development Technician completed, QA Bootcamp, Programming Languages: HTML5, CSS, Python,SQL. Tools: Jira, Postman for API testing, Git**
+- 🌱 I’m currently learning **Systems Development Technician completed, QA Bootcamp, Programming Languages: HTML5, CSS, Python, SQL. Tools, Jira, Postman for API testing, Git**
 
 - 👯 I’m looking to collaborate on [API Testing with Postman](creation of Postman test collections to validate API endpoints. Data validation,authentication and performance testing.)
 
